@@ -10,6 +10,9 @@ public class internetfibra {
 	
 	//metodo construtor
 	
+	public internetfibra(String string, String string2, String string3, String string4, String string5) {
+		// TODO Auto-generated constructor stub
+	}
 	public void internetfibra(String nomecliente,String idade,String rg,String cep,String telefone)
 
 	{
@@ -52,6 +55,14 @@ public class internetfibra {
 	}
 	public void settelefone(String telefone) {
 		this.telefone = telefone;
+	}
+	public void comprarmegas() {
+		// TODO Auto-generated method stub
+		
+	}
+	public void comprarroteador() {
+		// TODO Auto-generated method stub
+		
 	}
 
 	
